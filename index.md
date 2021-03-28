@@ -6,4 +6,4 @@ Here you will find public access to all recordings and Powerpoint decks that I h
 
 ### Support or Contact
 
-Contact Chris.Jeffrey@Microsoft.com for help accessing any files.
+Please raise and issue for help accessing any files.
